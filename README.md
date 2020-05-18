@@ -35,3 +35,6 @@ Para esse projeto, foram utilizadas as seguintes bibliotecas:
 - MAX30100_PulseOximeter - https://github.com/oxullo/Arduino-MAX30100/
 - LiquidCrystal - disponível pela admistração de bibliotecas da IDE
 
+## Próximos passos
+- incluir modulo wi-fi
+- disponibilizar os dados para pesquisa
