@@ -22,10 +22,6 @@ Referências:
 https://autocorerobotica.blog.br/como-fazer-um-oximetro-com-arduino/
 https://www.teachmemicro.com/max30100-arduino-heart-rate-sensor/
 
-## Próximos passos
-- Incluir o módulo wi-fi
-- Enviar os dados para uma base
-
 ### Ligando os componentes
 ![alt text](https://github.com/prifigueredo/arduino-oximetro/blob/master/oximetro-circuito.png)
 
